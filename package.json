@@ -1,0 +1,6 @@
+{
+  "name": "renovate-lockfiles",
+  "dependencies": {
+    "xmldoc": "1.1.0"
+  }
+}
